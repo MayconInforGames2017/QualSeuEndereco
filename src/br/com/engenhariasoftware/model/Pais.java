@@ -7,14 +7,4 @@ public class Pais extends Estado {
 		// TODO Auto-generated constructor stub
 	}
 
-	private String Nome_Regiao;
-
-	public String getNome_Regiao() {
-		return Nome_Regiao;
-	}
-
-	public void setNome_Regiao(String nome_Regiao) {
-		Nome_Regiao = nome_Regiao;
-	}
-
 }
